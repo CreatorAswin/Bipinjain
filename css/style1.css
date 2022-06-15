@@ -113,8 +113,10 @@ div.filterDivA a:hover{
 }
 .carousel-inner{
   width: 100%;
-  height:75%;
-  border-radius: 50px;
+  height:100%;
+  margin-top: 10px;
+  border-radius: 25px;
+  
 }
 .item{
   width: 100%;
